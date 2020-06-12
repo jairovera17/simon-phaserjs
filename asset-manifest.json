@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/simon-phaserjs/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/simon-phaserjs/static/js/main.542204d1.chunk.js",
-    "main.js.map": "/simon-phaserjs/static/js/main.542204d1.chunk.js.map",
+    "main.js": "/simon-phaserjs/static/js/main.e58378bb.chunk.js",
+    "main.js.map": "/simon-phaserjs/static/js/main.e58378bb.chunk.js.map",
     "runtime-main.js": "/simon-phaserjs/static/js/runtime-main.36622b28.js",
     "runtime-main.js.map": "/simon-phaserjs/static/js/runtime-main.36622b28.js.map",
     "static/js/2.5a36d8d4.chunk.js": "/simon-phaserjs/static/js/2.5a36d8d4.chunk.js",
     "static/js/2.5a36d8d4.chunk.js.map": "/simon-phaserjs/static/js/2.5a36d8d4.chunk.js.map",
     "index.html": "/simon-phaserjs/index.html",
-    "precache-manifest.82d79d7ef5c55d1c786941b1b542bf93.js": "/simon-phaserjs/precache-manifest.82d79d7ef5c55d1c786941b1b542bf93.js",
+    "precache-manifest.d163019301b605c0742eb7e6758a09e6.js": "/simon-phaserjs/precache-manifest.d163019301b605c0742eb7e6758a09e6.js",
     "service-worker.js": "/simon-phaserjs/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/simon-phaserjs/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.5a36d8d4.chunk.js.LICENSE.txt": "/simon-phaserjs/static/js/2.5a36d8d4.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.36622b28.js",
     "static/js/2.5a36d8d4.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.542204d1.chunk.js"
+    "static/js/main.e58378bb.chunk.js"
   ]
 }

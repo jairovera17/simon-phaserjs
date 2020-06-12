@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0172eb121f8cb9571a030ce4c36a9a6b",
+    "revision": "fa16cfab2b3834c9f9cc27629bde531e",
     "url": "/simon-phaserjs/index.html"
   },
   {
-    "revision": "8791c51cad0ff7b94477",
+    "revision": "0f65e158c9b6a1ab6eed",
     "url": "/simon-phaserjs/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/simon-phaserjs/static/js/2.5a36d8d4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8791c51cad0ff7b94477",
-    "url": "/simon-phaserjs/static/js/main.542204d1.chunk.js"
+    "revision": "0f65e158c9b6a1ab6eed",
+    "url": "/simon-phaserjs/static/js/main.e58378bb.chunk.js"
   },
   {
     "revision": "fe0153aeac36520733bf",
