@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/simon-phaser/static/css/main.5f361e03.chunk.css",
-    "main.js": "/simon-phaser/static/js/main.20adfc57.chunk.js",
-    "main.js.map": "/simon-phaser/static/js/main.20adfc57.chunk.js.map",
-    "runtime-main.js": "/simon-phaser/static/js/runtime-main.bf555e26.js",
-    "runtime-main.js.map": "/simon-phaser/static/js/runtime-main.bf555e26.js.map",
-    "static/js/2.5caca5bc.chunk.js": "/simon-phaser/static/js/2.5caca5bc.chunk.js",
-    "static/js/2.5caca5bc.chunk.js.map": "/simon-phaser/static/js/2.5caca5bc.chunk.js.map",
-    "index.html": "/simon-phaser/index.html",
-    "precache-manifest.34af4d3c086f81108c8112d4f88bfdaa.js": "/simon-phaser/precache-manifest.34af4d3c086f81108c8112d4f88bfdaa.js",
-    "service-worker.js": "/simon-phaser/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/simon-phaser/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.5caca5bc.chunk.js.LICENSE.txt": "/simon-phaser/static/js/2.5caca5bc.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/simon-phaser/static/media/logo.5d5d9eef.svg"
+    "main.css": "/simon-phaserjs/static/css/main.5f361e03.chunk.css",
+    "main.js": "/simon-phaserjs/static/js/main.3c51024c.chunk.js",
+    "main.js.map": "/simon-phaserjs/static/js/main.3c51024c.chunk.js.map",
+    "runtime-main.js": "/simon-phaserjs/static/js/runtime-main.36622b28.js",
+    "runtime-main.js.map": "/simon-phaserjs/static/js/runtime-main.36622b28.js.map",
+    "static/js/2.5caca5bc.chunk.js": "/simon-phaserjs/static/js/2.5caca5bc.chunk.js",
+    "static/js/2.5caca5bc.chunk.js.map": "/simon-phaserjs/static/js/2.5caca5bc.chunk.js.map",
+    "index.html": "/simon-phaserjs/index.html",
+    "precache-manifest.839111b2c3802cc22d4836603bc4d4e1.js": "/simon-phaserjs/precache-manifest.839111b2c3802cc22d4836603bc4d4e1.js",
+    "service-worker.js": "/simon-phaserjs/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/simon-phaserjs/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5caca5bc.chunk.js.LICENSE.txt": "/simon-phaserjs/static/js/2.5caca5bc.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/simon-phaserjs/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bf555e26.js",
+    "static/js/runtime-main.36622b28.js",
     "static/js/2.5caca5bc.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.20adfc57.chunk.js"
+    "static/js/main.3c51024c.chunk.js"
   ]
 }
